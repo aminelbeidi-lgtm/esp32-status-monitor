@@ -1,0 +1,2 @@
+#pragma once
+#define SECRET_API_KEY "PUT_YOUR_THINGSPEAK_WRITE_KEY_HERE"
